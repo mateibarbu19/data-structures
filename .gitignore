@@ -50,4 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
- *.vs*
+
+# VSCode/VSCodium/Code-OSS/Visual Studio files
+*.vs*
