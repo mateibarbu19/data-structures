@@ -32,7 +32,7 @@ I created this repository for the following reasons:
     my best projects**
 2. fear of missing out, since most colleagues have some form of a data structures
     repository on their personal GitHub page
-2. historical purposes, which kinda sums up points 1-2
+3. historical purposes, which kinda sums up points 1-2
 
 For more information or a syllabus check out the course description
 [page here](https://cs.pub.ro/index.php/education/courses/58-under/an1unger/103-data-structures)
