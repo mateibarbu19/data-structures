@@ -1,7 +1,5 @@
 # Data Structures
 
-This project provides solutions to the Open CourseWare Data Strucutes Laboratories taught at Politehnica University of Bucharest, for historical purposes.
-
 **Disclaimer**: The majority of the code in this repository was written on top
 of the infrastructure provided by the
 *SD-UPB team*. **Be aware that some of this code is their intellectual
